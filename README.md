@@ -69,4 +69,4 @@ This project is built with a FullStack approach. We have a remote server managin
 ### Steps
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/GoNature.git
+   git clone https://github.com/ShadiAbureesh/GoNature.git
